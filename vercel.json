@@ -9,7 +9,7 @@
   },
   "functions": {
     "api/predict": {
-      "runtime": "python",
+      "runtime": "python"
     }
   },
   "routes": [
