@@ -10,7 +10,6 @@
   "functions": {
     "api/predict": {
       "runtime": "python",
-      "handler": "handler.py",
       "environment": {
         "FLASK_APP": "handler.py",
         "FLASK_ENV": "production",
